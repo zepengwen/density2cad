@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <TargetFrameworks>net7.0;net48</TargetFrameworks>
+    <Version>1.0</Version>
+    <Title>MicroHomo</Title>
+    <Description>Description of MicroHomo</Description>
+    <TargetExt>.gha</TargetExt>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Grasshopper" Version="8.0.23164.14305-wip" IncludeAssets="compile;build" />
+    <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.5" />
+  </ItemGroup>
+
+</Project>

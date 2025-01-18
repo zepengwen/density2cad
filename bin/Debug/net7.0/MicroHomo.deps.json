@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MicroHomo/1.0": {
+        "dependencies": {
+          "Grasshopper": "8.0.23164.14305-wip",
+          "MathNet.Numerics": "5.0.0",
+          "System.Drawing.Common": "8.0.5"
+        },
+        "runtime": {
+          "MicroHomo.gha": {}
+        }
+      },
+      "Grasshopper/8.0.23164.14305-wip": {
+        "dependencies": {
+          "RhinoCommon": "8.0.23164.14305-wip"
+        }
+      },
+      "MathNet.Numerics/5.0.0": {
+        "runtime": {
+          "lib/net6.0/MathNet.Numerics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/8.0.0": {
+        "runtime": {
+          "lib/net7.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "RhinoCommon/8.0.23164.14305-wip": {},
+      "System.Drawing.Common/8.0.5": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "8.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.524.21704"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroHomo/1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Grasshopper/8.0.23164.14305-wip": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hzHby/AFHT2jnlsA+gKr7exeFuy/xS8oRU1c8zY4GxmYXRGcIqyOAmeVm2e3pvqkcerCp7KYGMHfw4ukpuOaOA==",
+      "path": "grasshopper/8.0.23164.14305-wip",
+      "hashPath": "grasshopper.8.0.23164.14305-wip.nupkg.sha512"
+    },
+    "MathNet.Numerics/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pg1W2VwaEQMAiTpGK840hZgzavnqjlCMTVSbtVCXVyT+7AX4mc1o89SPv4TBlAjhgCOo9c1Y+jZ5m3ti2YgGgA==",
+      "path": "mathnet.numerics/5.0.0",
+      "hashPath": "mathnet.numerics.5.0.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9opKRyOKMCi2xJ7Bj7kxtZ1r9vbzosMvRrdEhVhDz8j8MoBGgB+WmC94yH839NPH+BclAjtQ/pyagvi/8gDLkw==",
+      "path": "microsoft.win32.systemevents/8.0.0",
+      "hashPath": "microsoft.win32.systemevents.8.0.0.nupkg.sha512"
+    },
+    "RhinoCommon/8.0.23164.14305-wip": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kTIWpk+jOG6TmNIn/usy3cX9hyAOT3DITL8CFe6QgpCU7H19c0S3Lm/jAHh0xUJb+WdigsgBgQUeloBwHNc+/g==",
+      "path": "rhinocommon/8.0.23164.14305-wip",
+      "hashPath": "rhinocommon.8.0.23164.14305-wip.nupkg.sha512"
+    },
+    "System.Drawing.Common/8.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n55wb6rL8YG254AG+SfQOSQencrcnpKAAcYyEcvBuO2pob7ltXuZ5skBBdvLJOLVPKd1Ya8+8ColIM5AtBo5ww==",
+      "path": "system.drawing.common/8.0.5",
+      "hashPath": "system.drawing.common.8.0.5.nupkg.sha512"
+    }
+  }
+}

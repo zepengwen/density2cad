@@ -1,0 +1,12 @@
+E:\gh\MicroHomo\bin\Debug\net48\MicroHomo.gha
+E:\gh\MicroHomo\bin\Debug\net48\MicroHomo.pdb
+E:\gh\MicroHomo\bin\Debug\net48\MathNet.Numerics.dll
+E:\gh\MicroHomo\bin\Debug\net48\System.Drawing.Common.dll
+E:\gh\MicroHomo\obj\Debug\net48\MicroHomo.csproj.AssemblyReference.cache
+E:\gh\MicroHomo\obj\Debug\net48\MicroHomo.GeneratedMSBuildEditorConfig.editorconfig
+E:\gh\MicroHomo\obj\Debug\net48\MicroHomo.AssemblyInfoInputs.cache
+E:\gh\MicroHomo\obj\Debug\net48\MicroHomo.AssemblyInfo.cs
+E:\gh\MicroHomo\obj\Debug\net48\MicroHomo.csproj.CoreCompileInputs.cache
+E:\gh\MicroHomo\obj\Debug\net48\MicroHomo.csproj.CopyComplete
+E:\gh\MicroHomo\obj\Debug\net48\MicroHomo.gha
+E:\gh\MicroHomo\obj\Debug\net48\MicroHomo.pdb

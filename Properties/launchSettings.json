@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MicroHomo": {
+      "commandName": "Executable",
+      "executablePath": "e:\\Program Files\\Rhino 8\\System\\Rhino.exe",
+      "commandLineArgs": ""
+    }
+  }
+}
